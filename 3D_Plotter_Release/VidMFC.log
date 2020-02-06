@@ -1,0 +1,23 @@
+﻿  VidMFCDlg.cpp
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.h(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.h(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.h(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.h(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.h(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.h(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.h(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(412): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(413): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(314): warning C4101: 'dZ': unreferenced local variable
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(314): warning C4101: 'dY': unreferenced local variable
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(314): warning C4101: 'dX': unreferenced local variable
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(557): warning C4101: 'm': unreferenced local variable
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(557): warning C4101: 'd': unreferenced local variable
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(734): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\source\repos\vidmfc\vidmfcdlg.cpp(963): warning C4101: 'b_a': unreferenced local variable
+  Generating code
+  0 of 780 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VidMFC.vcxproj -> C:\Users\tomas\source\repos\VidMFC\Release\VidMFC.exe
